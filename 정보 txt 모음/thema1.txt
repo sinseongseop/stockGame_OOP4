@@ -1,0 +1,20 @@
+Introduction of New Technologies for Strengthening Cloud Security,0,IT,+3,0
+Innovative Utilization Plans for 5th Generation Mobile Communication Technology,0,IT,+2,0
+Introduction of New Technologies in Participation with Smart City Project,0,IT,+1,0
+Launch of a Revolutionary Shopping Mall Platform Utilizing Artificial Intelligence,0,IT,+3,0
+Commencement of Predictive Analysis Services Using Big Data,0,IT,+2,0
+Expansion and Support for Cybersecurity Education Programs,0,IT,+3,0
+Development and Commercialization of Cloud Network Solutions,0,IT,+2,0
+Initiation of Innovative Project for Digital Transformation,0,IT,+3,0
+Launch of Internet-Based Smart Home Services,0,IT,+3,0
+Announcement of Plans for Establishing a Smart Factory Using Internet of Things Technology,0,IT,+1,0
+Security Issue Arises Due to Personal Information Leakage Incident,0,IT,-3,0
+Business Disruption Occurs Due to Cloud System Outage,0,IT,-2,0
+Major Traffic Congestion Arises Due to Artificial Intelligence Algorithm Error,0,IT,-1,0
+Data Loss Incident in Financial Institution Due to Cyber Attack,0,IT,-3,0
+Massive Network Outage Due to Internet Service Downtime,0,IT,-2,0
+Misguided Business Strategy Due to Big Data Analysis Error,0,IT,-1,0
+Corporate Secrets Leaked Due to Cloud Service Hacking Incident,0,IT,-3,0
+Service Disruption Incident Due to Flaw in Artificial Intelligence Application,0,IT,-2,0
+Cybercrime Organization Hacking Incident in Financial Institution,0,IT,-3,0
+Massive Hacking Incident Due to Internet Security Protocol Vulnerability,0,IT,-2,0

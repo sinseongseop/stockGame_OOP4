@@ -1,0 +1,15 @@
+Introduction of Sustainable and Eco-Friendly Production System with Awards at A_Food Company,A_Food,Food,+3,neg
+A_Food Company Earns Positive Consumer Ratings with Innovative Food Manufacturing Technology,A_Food,Food,+2,neg
+Positive Interaction with the Local Community through A_Food Company's Regional Farm Support Project,A_Food,Food,+1,neg
+Acclaim in the Market for A_Food Company's New Healthy Food Line Launch,A_Food,Food,+3,neg
+Increased Convenience with A_Food Company's Introduction of Unmanned Delivery Service,A_Food,Food,+2,neg
+News of Advanced Inspection Equipment Introduction for Strengthening Food Safety by A_Food Company,A_Food,Food,+3,neg
+Contribution to Environmental Protection through the Introduction of Sustainable Production Methods by A_Food Company,A_Food,Food,+2,neg
+Positive Consumer Response through A_Food Company's Digital Marketing Strategy,A_Food,Food,+1,neg
+Product Recall Crisis Due to Defect in Food Manufacturing Process at A_Food Company,A_Food,Food,-3,pos
+Consumer Health Issues Arising from Errors in Food Safety Testing at A_Food Company,A_Food,Food,-2,pos
+Criticism for Environmental Protection Failure Due to A_Food Company's Eco-Friendly Food Packaging Material Development,A_Food,Food,-1,pos
+Risk of Trust Erosion Due to Data Leakage Incident in A_Food Company's Food Distribution Network,A_Food,Food,-3,pos
+Increased Consumer Discontent Due to Food Poisoning Incident Linked to A_Food Company,A_Food,Food,-2,pos
+Production Disruption and Quality Decline Due to Environmental Contamination in Raw Materials at A_Food Company,A_Food,Food,-3,pos
+Consumer Confusion and Dissatisfaction Due to Labeling Error in A_Food Company's Food Product,A_Food,Food,-2,pos

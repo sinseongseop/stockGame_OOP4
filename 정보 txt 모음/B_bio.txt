@@ -1,0 +1,20 @@
+Enhanced Medical Diagnosis Accuracy through Introduction of Innovative Bio Sensor Technology by B_BIO Company,B_BIO,bio,+3,neg
+Launch of Eco-Friendly Product Line Using Biotechnological Materials by B_BIO Company,B_BIO,bio,+2,neg
+Improved Food Productivity through Sustainable Agriculture Technology by B_BIO Company,B_BIO,bio,+1,neg
+Development of New Treatment for Specific Disease through New Drug Research by B_BIO Company,B_BIO,bio,+3,neg
+Recognition and Awards Worldwide for Virus Vaccine Development by B_BIO Company,B_BIO,bio,+2,neg
+Development of Medical Device Products Using B_BIO Company's Biomedical Material Technology,B_BIO,bio,+3,neg
+Introduction of Food Safety Monitoring System Using Bioinformatics Technology by B_BIO Company,B_BIO,bio,+2,neg
+Development of Eco-Friendly Energy Solutions Using Biotechnological Processes by B_BIO Company,B_BIO,bio,+3,neg
+International Environmental Certification for B_BIO Company's Sustainable Environmental Management,B_BIO,bio,+3,neg
+Global Medical Collaboration Contribution through Sharing of Biopharmaceutical Production Technology by B_BIO Company,B_BIO,bio,+2,neg
+Personal Information Leakage Incident Due to Security System Flaw in Innovative Technology at B_BIO Company,B_BIO,bio,-2,pos
+Patient Lawsuit Arising from Side Effects During Development of Biopharmaceuticals at B_BIO Company,B_BIO,bio,-1,pos
+Environmental Destruction Incident Due to Failure in Ecosystem Conservation Project at B_BIO Company,B_BIO,bio,-3,pos
+Safety Issues Arising from Errors in Biomedical Material Manufacturing Process at B_BIO Company,B_BIO,bio,-2,pos
+Product Recall Due to Discovery of Harmful Components in B_BIO Company's New Product After Launch,B_BIO,bio,-3,pos
+Hacking Incident Due to Security Vulnerabilities in B_BIO Company's Bio Security System,B_BIO,bio,-2,pos
+Security Threat Incident Arising from Misuse of Biometric Recognition Technology at B_BIO Company,B_BIO,bio,-2,pos
+Criticism from Environmental Protection Organizations Regarding B_BIO Company's Sustainable Environmental Management Policy,B_BIO,bio,-3,pos
+Patient Lawsuit Due to Unexpected Side Effects of B_BIO Company's New Treatment,B_BIO,bio,-3,pos
+Environmental Contamination Incident Due to Production Process Errors in B_BIO Company's Biomedical Material Production,B_BIO,bio,-2,pos

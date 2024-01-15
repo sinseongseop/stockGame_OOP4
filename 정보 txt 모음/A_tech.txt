@@ -1,0 +1,15 @@
+Recognition of A_IT Company's New Technology Security System as Industry Standard Awarded at International Conference,A_IT,IT,+3,neg
+Innovative Services Introduction in Financial Sector through A_IT Company's Development of Artificial Intelligence Technology,A_IT,IT,+2,neg
+A_IT Company Selected as Model Corporation for Coexistence in Local Community through Social Contribution Programs,A_IT,IT,+1,neg
+A_IT Company Chosen as Industry Leader Leading Industry Trends,A_IT,IT,+3,neg
+Support for Growth of Startups through A_IT Company's Entrepreneurship Support Program,A_IT,IT,+2,neg
+Environmentally Friendly Management Practices of A_IT Company Recognized with Award for Sustainable Environmental Practices,A_IT,IT,+3,neg
+Enhanced Data Security through A_IT Company's Introduction of Blockchain Technology,A_IT,IT,+2,neg
+Improved Operational Efficiency through A_IT Company's Digital Transformation Project,A_IT,IT,+1,neg
+Faulty AI Algorithm Leads to Incorrect Decision Making in A_IT Company's Efficient Data Analysis,A_IT,IT,-2,pos
+Business Disruption Incident Due to A_IT Company's Cloud System Outage,A_IT,IT,-1,pos
+Financial Losses Due to Big Data Analysis Error in A_IT Company Damaging Trust with Financial Institutions,A_IT,IT,-3,pos
+Customer Information Leakage Incident Due to Cyber Attack at A_IT Company,A_IT,IT,-2,pos
+Legal Dispute Arises from Personal Information Leakage Incident at A_IT Company,A_IT,IT,-3,pos
+Customer Confusion and Dissatisfaction Stem from Digital Marketing Platform Error at A_IT Company,A_IT,IT,-2,pos
+Key Personnel A_IT Leaving for B_IT Company,A_IT,IT,-3,pos

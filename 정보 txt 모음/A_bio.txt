@@ -1,0 +1,20 @@
+Innovative Gene Editing Technology Development with A_BIO Company,A_BIO,bio,+3,neg
+Discovery of Effective Treatment for Lethal Diseases through A_BIO Company's New Drug Research,A_BIO,bio,+2,neg
+Environmental Contribution through Sustainable Bio Research by A_BIO Company,A_BIO,bio,+1,neg
+Introduction of New Food Production Method Using Bioinformatics Technology by A_BIO Company,A_BIO,bio,+3,neg
+Innovative Applications in Medical Field through A_BIO Company's Biomedical Material Development,A_BIO,bio,+2,neg
+Initiation of Eco-Friendly Food Production Project Using A_BIO Company's Biotechnology,A_BIO,bio,+3,neg
+Global Recognition and International Award for A_BIO Company's Virus Vaccine Development,A_BIO,bio,+2,neg
+Launch of Environmentally Friendly Product Line Made from A_BIO Company's Biomedical Materials,A_BIO,bio,+3,neg
+Successful Development of Human Regeneration Technology through A_BIO Company's Biomedical Research,A_BIO,bio,+3,neg
+Release of Medical Security Solution Using A_BIO Company's Biometric Recognition Technology,A_BIO,bio,+2,neg
+Incident Due to Laboratory Safety Procedure Violation at A_BIO Company,A_BIO,bio,-3,pos
+Safety Issues Arising from Errors in Biomedical Material Manufacturing Process at A_BIO Company,A_BIO,bio,-2,pos
+Ethical Concerns Arising from Unlawful Use of Biomedical Technology at A_BIO Company,A_BIO,bio,-3,pos
+Increased Criticism Due to Controversies in Animal Experiments for Life Sciences Research at A_BIO Company,A_BIO,bio,-2,pos
+Product Recall Due to Discovery of Harmful Components in A_BIO Company's New Product After Launch,A_BIO,bio,-3,pos
+Security Threat Incident Arising from Misuse of Biometric Recognition Technology at A_BIO Company,A_BIO,bio,-2,pos
+Ecosystem Issues Arising from Environmental Impact During Application of Eco-Friendly Bio Technology at A_BIO Company,A_BIO,bio,-3,pos
+Conflict Arising from Ethical Violation During Biomedical Research at A_BIO Company,A_BIO,bio,-2,pos
+Patient Lawsuit Due to Unexpected Side Effects of A_BIO Company's New Treatment,A_BIO,bio,-3,pos
+Safety Problems Arising from Chemical Errors in Production Process of A_BIO Company's New Product,A_BIO,bio,-2,pos

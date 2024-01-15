@@ -1,0 +1,20 @@
+Development of Novel Therapies Using Gene Editing Technology,0,bio,+3,0
+Improved Surgical Success Rates Through Innovative Medical Robot Technology,0,bio,+2,0
+Launch of Bioinformatics Platform for New Life Research,0,bio,+3,0
+Release of Efficient Medical Diagnostic Services Using Artificial Intelligence,0,bio,+2,0
+Advancement in Bio-Printing Technology for Tissue Regeneration,0,bio,+3,0
+Initiation of Eco-Friendly Food Production Project Using Sustainable Life Science Technology,0,bio,+2,0
+Successful Clinical Trial Results for Immunotherapy,0,bio,+3,0
+Launch of Health Management Solution Using Internal Sensor Technology,0,bio,+3,0
+Adoption of Innovative Treatment Technology to Reduce Side Effects of Radiation Therapy,0,bio,+2,0
+Global Collaboration Project for Inclusive Bio-Diversity Conservation,0,bio,+3,0
+Personal Information Breach Incident in Medical Records,0,bio,-3,0
+Safety Issues Arise Due to Biopharmaceutical Manufacturing Process Error,0,bio,-2,0
+Unforeseen Side Effects Discovered in Clinical Trial of New Drug Candidate,0,bio,-1,0
+Biological Safety Incident in Research Facility Due to Virus Leak,0,bio,-3,0
+Health Information Distortion Incident Due to Bio-Sensor Technology Flaw,0,bio,-2,0
+Ecological Impact Due to Side Effects of Eco-Friendly Bio-Technology,0,bio,-1,0
+Ethical Controversy Arises in Bio Research Due to Bio-Ethics Issues,0,bio,-3,0
+Hacking Incident Due to Security Vulnerability in Bio-Medical Devices,0,bio,-2,0
+Policy Imbalance in Bio-Technology with Potential Impact on Future Medical Services,0,bio,-3,0
+Ecological Destruction and Biodiversity Reduction Due to Bio-Soil Development,0,bio,-2,0

@@ -1,0 +1,20 @@
+Providing New Flavors and Nutrition through Innovative Use of Local Ingredients by B_Food Company,B_Food,Food,+3,neg
+Positive Consumer Reception for Customer-Centric Food Development by B_Food Company,B_Food,Food,+2,neg
+Contribution to Environmental Protection through B_Food Company's Sustainable Production and Consumption Activities,B_Food,Food,+1,neg
+Launch of New Food Line Supporting Healthy Diets by B_Food Company,B_Food,Food,+3,neg
+Increased Productivity and Initiation of Farm Support Projects with Agricultural Technology Innovation by B_Food Company,B_Food,Food,+2,neg
+Positive Perception Obtained Through B_Food Company's Ad Campaign Emphasizing Food Safety,B_Food,Food,+3,neg
+Selection as an Environmentally Friendly Company Through the Introduction of Sustainable Production Systems by B_Food Company,B_Food,Food,+2,neg
+Successful Consumer-Engaged Food Development Project Through B_Food Company's Digital Platform Utilization,B_Food,Food,+1,neg
+Opening of Industry Collaboration Program to Enhance Food Safety Standards by B_Food Company,B_Food,Food,+3,neg
+Improved Local Economy Support and Consumer Satisfaction through B_Food Company's Direct Trade System for Local Ingredients,B_Food,Food,+3,neg
+Environmental Contamination Incident Due to Misuse of Industrial Chemicals in Food Production at B_Food Company,B_Food,Food,-3,pos
+Product Recall Crisis Arising from Problems in Food Safety Testing at B_Food Company,B_Food,Food,-2,pos
+Criticism from Environmental Protection Organizations Due to Failure in Sustainable Packaging Development at B_Food Company,B_Food,Food,-1,pos
+Consumer Information Security Issues Arising from Data Leakage in B_Food Company's Food Distribution Network,B_Food,Food,-3,pos
+Consumer Anxiety Increase and Sales Decline Due to Food Poisoning Incident Linked to B_Food Company,B_Food,Food,-2,pos
+Ecological Issues and Criticism Arising from Failure in Environmental Protection Measures at B_Food Company,B_Food,Food,-3,pos
+Legal Dispute Arising from Labeling Error in B_Food Company's Food Product,B_Food,Food,-2,pos
+Production Process Errors Leading to Quality Decline in B_Food Company's Food Production,B_Food,Food,-1,pos
+Consumer Discontent Due to Allergen Mislabeling in B_Food Company's New Food Line,B_Food,Food,-3,pos
+Quality Decline in B_Food Company's Food Products Due to Malfunction in Refrigeration System During Distribution,B_Food,Food,-2,pos

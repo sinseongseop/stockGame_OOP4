@@ -1,0 +1,15 @@
+Recognition of B_IT Company's New Technology Security System as Industry Standard Awarded at International Conference,B_IT,IT,+3,neg
+Innovative Services Introduction in Financial Sector through B_IT Company's Development of Artificial Intelligence Technology,B_IT,IT,+2,neg
+B_IT Company Selected as Model Corporation for Coexistence in Local Community through Social Contribution Programs,B_IT,IT,+1,neg
+B_IT Company Chosen as Industry Leader Leading Industry Trends,B_IT,IT,+3,neg
+Support for Growth of Startups through B_IT Company's Entrepreneurship Support Program,B_IT,IT,+2,neg
+Environmentally Friendly Management Practices of B_IT Company Recognized with Award for Sustainable Environmental Practices,B_IT,IT,+3,neg
+Enhanced Data Security through B_IT Company's Introduction of Blockchain Technology,B_IT,IT,+2,neg
+Improved Operational Efficiency through B_IT Company's Digital Transformation Project,B_IT,IT,+1,neg
+Faulty AI Algorithm Leads to Incorrect Decision Making in B_IT Company's Efficient Data Analysis,B_IT,IT,-2,pos
+Business Disruption Incident Due to B_IT Company's Cloud System Outage,B_IT,IT,-1,pos
+Financial Losses Due to Big Data Analysis Error in B_IT Company Damaging Trust with Financial Institutions,B_IT,IT,-3,pos
+Customer Information Leakage Incident Due to Cyber Attack at B_IT Company,B_IT,IT,-2,pos
+Legal Dispute Arises from Personal Information Leakage Incident at B_IT Company,B_IT,IT,-3,pos
+Customer Confusion and Dissatisfaction Stem from Digital Marketing Platform Error at B_IT Company,B_IT,IT,-2,pos
+Key Personnel A_IT Leaving for B_IT Company,B_IT,IT,-3,pos

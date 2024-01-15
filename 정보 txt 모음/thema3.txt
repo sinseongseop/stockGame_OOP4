@@ -1,0 +1,20 @@
+Collaborative Farming Project for Sustainable Agriculture,0,Food,+3,0
+Establishment of Research Institute for Development of New Food Ingredients,0,Food,+2,0
+Adoption of Rapid Feedback System for Food Safety,0,Food,+1,0
+Innovation Announcement for Eco-Friendly Food Production Technologies,0,Food,+3,0
+Launch of Mobile App Service for Sharing Food Recipes,0,Food,+2,0
+Introduction of Robotics for Automation in Food Manufacturing Process,0,Food,+3,0
+Plan for Adoption of Renewable Materials in Food Packaging,0,Food,+2,0
+Implementation of Blockchain Technology to Increase Transparency in Food Distribution Network,0,Food,+3,0
+Conducting Education Programs for Sustainable Production in Food Industry,0,Food,+4,0
+Project Announcement for Collaboration to Stabilize Food Prices,0,Food,+1,0
+Massive Product Recall Due to Food Poisoning Incident,0,Food,-3,0
+Food Safety Incident Due to Contamination by Harmful Substances,0,Food,-2,0
+Allergy Inducing Incident Due to Food Processing Error,0,Food,-1,0
+Consumer Harm Incident Due to Sale of Genetically Modified Foods,0,Food,-3,0
+Environmental Contamination Incident During Food Transportation,0,Food,-2,0
+Food Poisoning Incident Due to Hygiene Standards Non-Compliance in Restaurant,0,Food,-3,0
+Product Recall Incident Due to Discovery of Harmful Ingredients in Distributed Food,0,Food,-2,0
+Illegal Use of Chemicals in Raw Material Procurement for Food Production,0,Food,-3,0
+Controversy Arises Due to Lack of Animal Welfare Compliance in Food Distribution Network,0,Food,-2,0
+Consumer Confusion and Dissatisfaction Due to Food Price Manipulation,0,Food,-3,0
